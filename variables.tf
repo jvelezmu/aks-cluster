@@ -16,5 +16,5 @@ variable location {
     default = "East US"
 }
 variable "agent_count" {
-    default = 3
+    default = 1
 }
